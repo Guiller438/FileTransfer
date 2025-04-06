@@ -29,6 +29,4 @@ Desktop.ini
 *.war
 *.ear
 
-# Carpetas de prueba (puedes omitirlas del repo)
-input/
-output/
+
