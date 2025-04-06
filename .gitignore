@@ -1,0 +1,34 @@
+# Ignora la carpeta de compilación de Maven
+/target/
+
+# Archivos de configuración de IntelliJ y VS Code
+.idea/
+*.iml
+.vscode/
+
+# Archivos de logs
+*.log
+
+# Archivos compilados
+*.class
+
+# Archivos temporales
+*.tmp
+*.swp
+*~
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Archivos generados por Maven
+*.jar
+*.war
+*.ear
+
+# Carpetas de prueba (puedes omitirlas del repo)
+input/
+output/
